@@ -6,7 +6,7 @@ Windows 桌面 Dock 与桌面组件工具。
 
 [下载最新版 Windows x64 安装包](https://github.com/Whitree-s/WhiteDock-Releases/releases/latest/download/WhiteDock-Setup-x64.exe)
 
-[国内下载与更新说明（Gitee）](https://gitee.com/bai-zhisheng/white-dock-releases/releases/latest)
+[国内下载与更新说明（Gitee）](https://gitee.com/whitrees/whitedock/releases/latest)
 
 [查看全部版本与更新说明](https://github.com/Whitree-s/WhiteDock-Releases/releases)
 
